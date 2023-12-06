@@ -17,7 +17,7 @@ public class Employee {
                 Employee e = new Employee();
                 e.display(1,"Harsha",10000f);
                 e.display(2,"Nikitha",20000f);
-                e.display(3,"chandu",30000f);
+                e.display(3,"sravan",30000f);
 
             }
         }
